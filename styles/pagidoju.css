@@ -1,0 +1,49 @@
+#profile{
+    height:15%;
+    width:15%;
+    display:block;
+    margin-left: auto;
+    margin-right:auto;
+    padding-top: 2em;
+    border-radius: 50%;
+}
+
+.navbar{
+    padding-left: 31em;
+   
+}
+
+li{
+    padding-top: 1.5em;
+    display:inline-block;
+    font-size: x-large;
+}
+
+hr{
+    border-color: solid black;
+}
+
+aside{
+    display: block;
+    padding-left:14em;
+    padding-top:6em;
+}
+
+button{
+    text-align: center;
+    font-size: large;
+}
+
+footer{
+    text-align:center;
+}
+
+#myform{
+    padding-left:30em;
+}
+#submit{
+    margin-left:10em;
+}
+#area{
+    padding-right: 1em;
+}
