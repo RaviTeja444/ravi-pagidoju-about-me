@@ -47,3 +47,25 @@ footer{
 #area{
     padding-right: 1em;
 }
+
+
+a:hover{
+    color:blue;
+    text-decoration: none;
+}
+.mybutton{
+    height: 60px;
+    width:250px;
+}
+#fb{
+    height: 15px;
+    width:15px;
+}
+#lin{
+    height: 15px;
+    width:15px;
+}
+#git{
+    height: 15px;
+    width:15px;
+}
